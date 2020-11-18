@@ -1,4 +1,4 @@
-# A Highly Opinionated List of Open Source Materials Informatics Resources
+# A Highly Opinionated List of Open-Source Materials Informatics Resources
 A list of resources for [getting started](#getting-started), [blogs, newsletters, and podcasts](#blogs-newsletters-and-podcasts), [python tools](#python-tools), and [databases](#databases) for [materials informatics](https://citrine.io/what-is-materials-informatics/). If you think there's a great resource missing, read the [contribution guide](https://github.com/ncfrey/resources/blob/main/CONTRIBUTING.md) and [open a pull request](https://github.com/ncfrey/resources/pulls) or [create an issue](https://github.com/ncfrey/resources/issues) and I'll be happy to add it. This list is in no way comprehensive, it's simply a collection of resources I've found extremely helpful in my own research. This field is rapidly evolving and I've tried to focus on materials-specific resources, rather than cover the constantly changing cutting-edge of data science tools. I have included some foundational tools that are prerequisites for most of the other resources. There is also a list of [materials informatics research groups](https://github.com/ncfrey/resources/blob/main/groups.md). This list is inspired by Pat Walters' excellent [list of resources](https://github.com/PatWalters/resources) for cheminformatics. Chemistry, the so-called "central science," is in many ways leading the charge when it comes to applying machine learning to science, so it doesn't hurt to be familiar with the progress in the field.
 
 ## Getting started
@@ -39,12 +39,12 @@ A list of resources for [getting started](#getting-started), [blogs, newsletters
 
 - [ASE](https://wiki.fysik.dtu.dk/ase) - Simulation environment for materials and molecules.
 
+- [pytopomat](https://github.com/ncfrey/pytopomat) - Workflows for high-throughput band topology calculations.
+
 ### Materials informatics libraries
 - [Matminer](https://hackingmaterials.lbl.gov/matminer/) and [Automatminer](https://github.com/hackingmaterials/automatminer) - Automated generation of descriptors from material structures and compositions, as well as ML model training and evaluation.
 
-- [PUMML](https://github.com/ncfrey/pumml) - Semi-supervised materials machine learning (e.g. to predict synthetic accessibility) 
-
-- [pytopomat](https://github.com/ncfrey/pytopomat) - Workflows for high-throughput band topology calculations.
+- [PUMML](https://github.com/ncfrey/pumml) - Semi-supervised materials machine learning (e.g. to predict synthetic accessibility)
 
 - [MAML](https://github.com/materialsvirtuallab/maml) - All-purpose library for materials ML.
 
