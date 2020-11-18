@@ -24,3 +24,4 @@ research opportunities and great work! Feel free to open an issue or pull reques
 - [Hautier group](https://perso.uclouvain.be/geoffroy.hautier/) at Dartmouth
 - [Thermodynamics and Kinetics](https://www.nist.gov/mml/materials-science-and-engineering-division/thermodynamics-and-kinetics-group) |
 [Materials Structure and Data](https://www.nist.gov/mml/materials-measurement-science-division/materials-structure-and-data-group) at NIST
+- [Materials Intelligence](https://materials-intelligence.com/) at RPI
