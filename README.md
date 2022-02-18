@@ -10,6 +10,8 @@ A list of resources for [getting started](#getting-started), [blogs, newsletters
 
 - [Materials Project Workshop](https://workshop.materialsproject.org/#workshop-videos) - This fantastic three day workshop offered annually by the wonderful folks at the [Materials Project](https://materialsproject.org/) covers introductions to Python, Jupyter notebooks for data science, MongoDB for databases, and using the full stack of Materials Project software for computational materials science. There are [lecture videos](https://www.youtube.com/watch?v=vga6eV3IAac&list=PLTjFYVNE7LTiuOK8Re7ltY0a3OHFcQhAE) and [interactive notebooks](https://github.com/materialsproject/workshop/) accompanying each lesson. Appropriate for anyone with an interest in computational materials, no need to be a Python wizard.
 
+- [Materials Informatics Lectures by Taylor Sparks](https://www.youtube.com/watch?v=DDliZDwiAoU&list=PLL0SWcFqypCl4lrzk1dMWwTUrzQZFt7y0) - If you enjoy a good lecture, this online course is an amazing resource in an area where many universities do not yet have great courses developed. If you aren't comfortable with Python or need a refresher, Taylor has another great online course on [Python Programming for Materials Engineers](https://www.youtube.com/watch?v=aoL3whRmSfc&list=PLL0SWcFqypCmkHClksnGlab3wglEVMqNN).
+
 ## Blogs, newsletters, and podcasts
 - [My blog](https://medium.com/@ncfrey) - I post occasionally about my own research in materials informatics and materials physics. 
 
@@ -25,6 +27,8 @@ A list of resources for [getting started](#getting-started), [blogs, newsletters
 
 ## Python Tools
 - [Jupyter](https://jupyter.org/) - Project Jupyter is the de facto standard for doing data science in an interactive, web-based interface. A common theme among these resources is that the best ones will always be accompanied by example code and Jupyter notebooks. Advantages: great for rapid iteration and experimentation (science). Disadvantages: not great for reproducibility, deployment in production, and robustness (engineering).  
+
+- [nbQA](https://github.com/nbQA-dev/nbQA) - A fantastic tool for cleaning up messy notebooks. Appreciated by anyone who is trying to understand your prototyping work, including your future self.
 
 - [Deepnote](https://deepnote.com/) - There are lots of new notebook environments popping up trying to address the disadvantages of Jupyter. Deepnote allows real-time collaboration and runs in the cloud. [Google Colab](https://colab.research.google.com/), [CoCalc](https://cocalc.com/app), and [Paperspace Gradient](https://gradient.paperspace.com/) are other cloud-based notebook environments for ML.
 
